@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Colin Stringer]]></title>
         <description><![CDATA[Colin Stringer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/colin-stringer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 22:58:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Apr 2016 22:58:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/colin-stringer/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Hygge</p>]]></description>
+            <link>https://thegrid.ai/colin-stringer/hygge/index.html</link>
+            <guid isPermaLink="false">059bd362-3158-4f3b-a678-12d52d7be13c</guid>
+            <pubDate>Thu, 14 Apr 2016 22:57:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc1c1b23-6a08-42ef-b355-34ed26309cd5.jpg" alt="" title="">]]></description>
-            <link>undefinedthe-biology-underground/index.html</link>
+            <link>https://thegrid.ai/colin-stringer/the-biology-underground/index.html</link>
             <guid isPermaLink="false">4a56661f-5a27-46ac-ad82-9e5e195753d8</guid>
             <pubDate>Thu, 14 Apr 2016 22:57:40 GMT</pubDate>
         </item>
