@@ -1,28 +1,40 @@
-name: Colin Stringer
 favicon: null
-layout_spectrum: 0.35907314880751073
-typography_spectrum: 0.04626732715405524
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Colin Stringer
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.25039853528141975
-  lightness: 0.6657490828074515
-  saturation: 0.3785177662502974
-  rhythmicContrast: 0.7098346264101565
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.3785177662502974
+  brandStrength: 0.2503985352814198
+  lightness: 0.6657490828074515
+  brandColors:
+    - '#FFFFFF'
+    - '#125688'
+    - '#25272A'
+    - '#6E7176'
+    - '#A5A7AA'
+  rhythmicContrast: 0.7098346264101565
+typography_spectrum: 0.3154122
+layout_spectrum: 0.4462366
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
