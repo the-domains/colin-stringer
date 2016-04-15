@@ -1,6 +1,6 @@
 name: Colin Stringer
 favicon: null
-layout_spectrum: 0.49833
+layout_spectrum: 0
 typography_spectrum: 0.096
 collections:
   - index:
@@ -28,12 +28,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#b0d777'
-    - '#f16a6f'
-    - '#4d4d4d'
-    - '#818181'
-  brandStrength: 1
+    - '#464854'
+    - '#f9f9f9'
+    - '#0f0e00'
+    - '#878a9f'
+    - '#c6c3cc'
+  brandStrength: 0
   lightness: 0.1875
   saturation: 0.8125
   rhythmicContrast: 0.7098346264101565
