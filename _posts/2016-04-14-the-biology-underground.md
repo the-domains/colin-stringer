@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "The Biology Underground \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_Two kilometres deep under the snow-covered ground of Northern Ontario, Canada, scientists are studying the mysteries of the cosmos, from the world's deepest clean laboratory. The Sudbury Neutrino Observatory, a Nobel-Prize winning theoretical physics facility set in an active mine is home to some of the world's most groundbreaking physics experiments, and has hosted visits by Stephen Hawkings himself. So why on earth would biologists venture to the heart of the Nickel Capital to set up shop. What's in it for biology?"
-datePublished: '2016-04-15T00:01:35.426Z'
-dateModified: '2016-04-15T00:00:38.980Z'
+datePublished: '2016-04-15T03:01:15.426Z'
+dateModified: '2016-04-15T00:01:39.774Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-14-the-biology-underground.md
