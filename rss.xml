@@ -4,7 +4,7 @@
         <description><![CDATA[Colin Stringer]]></description>
         <link>https://thegrid.ai/colin-stringer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 04:42:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 04:44:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/colin-stringer/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/colin-stringer/the-biology-underground/index.html</link>
             <guid isPermaLink="false">4a56661f-5a27-46ac-ad82-9e5e195753d8</guid>
             <pubDate>Fri, 15 Apr 2016 03:01:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d3b17f8-d65c-4152-a236-9c6f807e659a.png">]]></description>
+            <link>https://thegrid.ai/colin-stringer/hygge/index.html</link>
+            <guid isPermaLink="false">059bd362-3158-4f3b-a678-12d52d7be13c</guid>
+            <pubDate>Fri, 15 Apr 2016 04:44:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/colin-stringer/science-in-song/index.html</link>
             <guid isPermaLink="false">1cab9cbd-e559-461b-a519-cc507544d3c7</guid>
             <pubDate>Fri, 15 Apr 2016 03:21:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Hygge</p>]]></description>
-            <link>https://thegrid.ai/colin-stringer/hygge/index.html</link>
-            <guid isPermaLink="false">059bd362-3158-4f3b-a678-12d52d7be13c</guid>
-            <pubDate>Thu, 14 Apr 2016 22:57:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
